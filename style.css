@@ -34,5 +34,5 @@ footer {
 }
 
 #grid-container {
-
+  display: grid;
 }
