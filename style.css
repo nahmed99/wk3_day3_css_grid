@@ -39,4 +39,5 @@ footer {
 
 #grid-container {
   display: grid;
+  /* At this point all of the grid elements are stacked on top of each other, therefore we need the following: */
 }
